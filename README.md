@@ -46,4 +46,4 @@ The Ganache transaction displaying the transaction of `0.165 ether` to the candi
 
 
 ### App in Action
-![Streamlit App](screenshots//Streamlit%20App.gif)
+![Streamlit App](screenshots/Streamlit%20App.gif)
